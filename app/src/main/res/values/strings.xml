@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lists</string>
+    <string name="button_open">Open</string>
+    <string name="button_back">Back</string>
+    <string name="task1_text">Перове задание</string>
+    <string name="task2_text">Второе задание</string>
+    <string name="task3_text">Третье задание</string>
+    <string-array name="digits">
+        <item>ZERO</item>
+        <item>ONE</item>
+        <item>TWO</item>
+        <item>THREE</item>
+        <item>FOUR</item>
+        <item>FIVE</item>
+        <item>SIX</item>
+        <item>SEVEN</item>
+        <item>EIGHT</item>
+        <item>NINE</item>
+        <item>NINE</item><item>NINE</item><item>NINE</item><item>NINE</item><item>NINE</item><item>NINE</item><item>NINE</item><item>NINE</item><item>NINE</item>
+    </string-array>
+</resources>
